@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PITCH_DIR Pin=R21-2
+Removed Pin From Net: NetName=ROLL_SPEED Pin=R25-2
+Added Pin To Net: NetName=ROLL_SPEED Pin=R21-2
+Added Pin To Net: NetName=PITCH_DIR Pin=R25-2

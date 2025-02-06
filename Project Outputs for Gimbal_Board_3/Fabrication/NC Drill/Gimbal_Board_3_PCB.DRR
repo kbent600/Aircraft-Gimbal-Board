@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Gimbal_Board_3_PCB.PcbDoc   11/13/2024  1:22:16 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gimbal_Board_3_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             42        PTH        3.28inch (83.40mm)
+T2      28mil (0.711mm)                                           Round             48        PTH        11.86inch (301.15mm)
+T3      35mil (0.889mm)                                           Round             12        PTH        5.33inch (135.49mm)
+T4      39mil (1.001mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T5      40mil (1.016mm)                                           Round             6         PTH        0.59inch (15.00mm)
+T6      40mil (1.021mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T7      42mil (1.069mm)                                           Round             12        PTH        2.20inch (55.81mm)
+T8      43mil (1.1mm)                                             Round             4         PTH        0.30inch (7.62mm)
+T9      95mil (2.41mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             4         PTH        7.94inch (201.63mm)
+T11     120mil (3.051mm)                                          Round             4         NPTH       2.20inch (55.91mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              145
+
+Total Processing Time (hh:mm:ss) : 00:00:00

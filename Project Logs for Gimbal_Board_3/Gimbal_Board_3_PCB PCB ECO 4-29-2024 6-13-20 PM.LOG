@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MC_ROLL_20T Pin=20V-1
+Removed Pin From Net: NetName=MC_ROLL_20T Pin=C19-2
+Removed Pin From Net: NetName=MC_ROLL_20T Pin=U4-1
+Change Component Designator: OldDesignator=3.3V NewDesignator=J11
+Change Component Designator: OldDesignator=3.3V NewDesignator=J13
+Change Component Designator: OldDesignator=3.3V NewDesignator=J18
+Change Component Designator: OldDesignator=3.3V NewDesignator=J20
+Change Component Designator: OldDesignator=5V NewDesignator=J7
+Change Component Designator: OldDesignator=5V NewDesignator=J12
+Change Component Designator: OldDesignator=5V NewDesignator=J14
+Change Component Designator: OldDesignator=5V NewDesignator=J16
+Change Component Designator: OldDesignator=10V NewDesignator=J19
+Change Component Designator: OldDesignator=10V NewDesignator=J21
+Change Component Designator: OldDesignator=20V NewDesignator=J15
+Change Component Designator: OldDesignator=20V NewDesignator=J17
+Change Component Designator: OldDesignator=Gimbal IMU NewDesignator=J4
+Change Component Designator: OldDesignator=Pi Input NewDesignator=J9
+Change Component Designator: OldDesignator=Pitch Encoder NewDesignator=J2
+Change Component Designator: OldDesignator=Pitch Motor NewDesignator=J6
+Change Component Designator: OldDesignator=Plane IMU NewDesignator=J8
+Change Component Designator: OldDesignator=Power Input NewDesignator=J3
+Change Component Designator: OldDesignator=Roll Encoder NewDesignator=J1
+Change Component Designator: OldDesignator=Roll MC NewDesignator=U1
+Change Component Designator: OldDesignator=Roll Motor NewDesignator=J5
+Added Pin To Net: NetName=VR_20T Pin=C19-2
+Added Pin To Net: NetName=VR_20T Pin=J17-1
+Added Pin To Net: NetName=VR_20T Pin=U4-1
+Added Net: Name=VR_20T
+Added Member To Class: ClassName=Test Pins Member=Component J7 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J11 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J12 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J13 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J15 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J16 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J19 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J20 S2761-46R

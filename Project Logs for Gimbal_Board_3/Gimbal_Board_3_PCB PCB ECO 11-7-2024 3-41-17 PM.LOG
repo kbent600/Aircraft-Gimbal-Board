@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SCL_1 Pin=Plane IMU-2
+Removed Pin From Net: NetName=SDA_1 Pin=Plane IMU-3
+Added Pin To Net: NetName=SCL_2 Pin=Plane IMU-2
+Added Pin To Net: NetName=SDA_2 Pin=Plane IMU-3
+Added Member To Class: ClassName=Test Pins Member=Component 3.3V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 3.3V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 3.3V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 5V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 5V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 5V S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component 10V S2761-46R

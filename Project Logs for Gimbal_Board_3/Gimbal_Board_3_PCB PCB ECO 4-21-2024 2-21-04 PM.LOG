@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=PITCH_SPEED Pin=J7-1
+Removed Pin From Net: NetName=ROLL_SPEED Pin=J7-2
+Removed Pin From Net: NetName=PITCH_DIR Pin=J7-3
+Removed Pin From Net: NetName=ROLL_DIR Pin=J7-4
+Removed Pin From Net: NetName=MC_ROLL_20T Pin=J11-1
+Removed Pin From Net: NetName=MC_ROLL_20T Pin=J11-2
+Removed Pin From Net: NetName=10V Pin=J12-1
+Removed Pin From Net: NetName=10V Pin=J12-2
+Removed Pin From Net: NetName=ROLL_SPEED_3.3 Pin=J13-2
+Removed Pin From Net: NetName=PITCH_DIR_3.3 Pin=J13-3
+Removed Pin From Net: NetName=ROLL_DIR_3.3 Pin=J13-4
+Change Component Footprint: Designator=J11 Old Footprint=1x2 Breakaway Vertical New Footprint=S2761-46R
+Change Component Footprint: Designator=J12 Old Footprint=1x2 Breakaway Vertical New Footprint=S2761-46R
+Change Component Footprint: Designator=J7 Old Footprint=1x4 Breakaway Vertical New Footprint=S2761-46R
+Change Component Footprint: Designator=J13 Old Footprint=1x4 Breakaway Vertical New Footprint=S2761-46R
+Change Component Comment : Designator=J13 Old Comment=3.3V_TEST New Comment=S2761-46R
+Change Component Comment : Designator=J7 Old Comment=5V_TEST New Comment=S2761-46R
+Change Component Comment : Designator=J12 Old Comment=10V_TEST New Comment=S2761-46R
+Change Component Comment : Designator=J11 Old Comment=20V_TEST New Comment=S2761-46R
+Change component parameters: Designator = "J7" ("J7"); Footprint = "1x4 Breakaway Vertical"; UniqueID = "\BYAOFYZA" ("\BYAOFYZA")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11" ("J11"); Footprint = "1x2 Breakaway Vertical"; UniqueID = "\MTSZQHDS" ("\MTSZQHDS")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J12" ("J12"); Footprint = "1x2 Breakaway Vertical"; UniqueID = "\RCWZNNPO" ("\RCWZNNPO")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J13" ("J13"); Footprint = "1x4 Breakaway Vertical"; UniqueID = "\IVAIMTMR" ("\IVAIMTMR")
+Change component parameters (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J14(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J15(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J16(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J17(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J18(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J19(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J20(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=J21(S2761-46R)
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNI"; Value = "DNI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S2761-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ROLL_DIR Pin=J7-1
+Added Pin To Net: NetName=ROLL_SPEED_3.3 Pin=J11-1
+Added Pin To Net: NetName=PITCH_DIR Pin=J12-1
+Added Pin To Net: NetName=ROLL_SPEED Pin=J14-1
+Added Pin To Net: NetName=MC_ROLL_20T Pin=J15-1
+Added Pin To Net: NetName=PITCH_SPEED Pin=J16-1
+Added Pin To Net: NetName=MC_ROLL_20T Pin=J17-1
+Added Pin To Net: NetName=ROLL_DIR_3.3 Pin=J18-1
+Added Pin To Net: NetName=10V Pin=J19-1
+Added Pin To Net: NetName=PITCH_DIR_3.3 Pin=J20-1
+Added Pin To Net: NetName=10V Pin=J21-1
+Added Member To Class: ClassName=Test Pins Member=Component J14 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J15 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J16 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J17 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J18 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J19 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J20 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J21 S2761-46R

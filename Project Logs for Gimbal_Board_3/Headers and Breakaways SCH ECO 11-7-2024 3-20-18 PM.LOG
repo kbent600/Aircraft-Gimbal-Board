@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=Roll Encoder
+Change Component Designator: OldDesignator=J2 NewDesignator=Pitch Encoder
+Change Component Designator: OldDesignator=J3 NewDesignator=Power Input
+Change Component Designator: OldDesignator=J4 NewDesignator=Gimbal IMU
+Change Component Designator: OldDesignator=J5 NewDesignator=Roll Motor
+Change Component Designator: OldDesignator=J6 NewDesignator=Pitch Motor
+Change Component Designator: OldDesignator=J7 NewDesignator=5V
+Change Component Designator: OldDesignator=J8 NewDesignator=Plane IMU
+Change Component Designator: OldDesignator=J9 NewDesignator=Rasp-Pi
+Change Component Designator: OldDesignator=J11 NewDesignator=3.3V
+Change Component Designator: OldDesignator=J12 NewDesignator=5V
+Change Component Designator: OldDesignator=J13 NewDesignator=3.3V
+Change Component Designator: OldDesignator=J14 NewDesignator=5V
+Change Component Designator: OldDesignator=J15 NewDesignator=20V
+Change Component Designator: OldDesignator=J16 NewDesignator=5V
+Change Component Designator: OldDesignator=J18 NewDesignator=3.3V
+Change Component Designator: OldDesignator=J19 NewDesignator=10V
+Change Component Designator: OldDesignator=J20 NewDesignator=3.3V
+Change Component Designator: OldDesignator=J21 NewDesignator=10V
+Change Component Designator: OldDesignator=U1 NewDesignator=Roll MC
+Change Component Designator: OldDesignator=U2 NewDesignator=Pitch MC

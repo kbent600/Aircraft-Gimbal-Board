@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MC_ROLL_20T Pin=J3-4
+Added Member To Class: ClassName=Test Pins Member=Component J14 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J17 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J18 S2761-46R
+Added Member To Class: ClassName=Test Pins Member=Component J21 S2761-46R

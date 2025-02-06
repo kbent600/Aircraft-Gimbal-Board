@@ -1,0 +1,12 @@
+Added Component: Designator=MH1(M3_Mounting_Hole)
+Add component (AddParameter): Name = "Value"; Value = "M3"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(M3_Mounting_Hole)
+Add component (AddParameter): Name = "Value"; Value = "M3"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(M3_Mounting_Hole)
+Add component (AddParameter): Name = "Value"; Value = "M3"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(M3_Mounting_Hole)
+Add component (AddParameter): Name = "Value"; Value = "M3"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CUAir Schematic Template (Title Page) Member=Component MH1 M3
+Added Member To Class: ClassName=CUAir Schematic Template (Title Page) Member=Component MH2 M3
+Added Member To Class: ClassName=CUAir Schematic Template (Title Page) Member=Component MH3 M3
+Added Member To Class: ClassName=CUAir Schematic Template (Title Page) Member=Component MH4 M3

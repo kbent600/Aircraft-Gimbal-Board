@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ENCODER_ROLL Pin=R22-2
+Removed Pin From Net: NetName=ENCODER_PITCH Pin=R23-2
+Added Pin To Net: NetName=ENCODER_PITCH Pin=R22-2
+Added Pin To Net: NetName=ENCODER_ROLL Pin=R23-2

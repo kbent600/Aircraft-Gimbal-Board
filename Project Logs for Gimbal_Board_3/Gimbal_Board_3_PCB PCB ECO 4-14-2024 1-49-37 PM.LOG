@@ -1,0 +1,65 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2013X135X45ML10T25 New Footprint=CAPC2013X135X45NL10T25
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2013X135X45ML10T25 New Footprint=CAPC2013X135X45ML10T25
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC2013X135X45ML10T25 New Footprint=CAPC2013X135X45ML10T25
+Change Physical Footprint: Designator=C4 Old Footprint=CAPC2013X135X45ML10T25 New Footprint=CAPC2013X135X45ML10T25
+Change Physical Footprint: Designator=C5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C19 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C20 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=D1 Old Footprint=FP-APTD3216CGCK-MFG New Footprint=FP-APTD3216CGCK-MFG
+Change Physical Footprint: Designator=D2 Old Footprint=FP-APTD3216CGCK-MFG New Footprint=FP-APTD3216CGCK-MFG
+Change Physical Footprint: Designator=ICSP1 Old Footprint=2x3 Breakaway Vertical New Footprint=2x3 Breakaway Vertical
+Change Physical Footprint: Designator=J1 Old Footprint=1x3 Breakaway Right Angle New Footprint=1x3 Breakaway Right Angle
+Change Physical Footprint: Designator=J2 Old Footprint=1x3 Breakaway Right Angle New Footprint=1x3 Breakaway Right Angle
+Change Physical Footprint: Designator=J3 Old Footprint=Molex Microfit 3.0 1x6 Right Angle New Footprint=Molex Microfit 3.0 1x6 Right Angle
+Change Physical Footprint: Designator=J4 Old Footprint=Molex Microfit 3.0 1x6 Right Angle New Footprint=Molex Microfit 3.0 1x6 Right Angle
+Change Physical Footprint: Designator=J5 Old Footprint=1x3 Breakaway Right Angle New Footprint=1x3 Breakaway Right Angle
+Change Physical Footprint: Designator=J6 Old Footprint=1x3 Breakaway Right Angle New Footprint=1x3 Breakaway Right Angle
+Change Physical Footprint: Designator=J7 Old Footprint=1x4 Breakaway Vertical New Footprint=1x4 Breakaway Vertical
+Change Physical Footprint: Designator=J8 Old Footprint=BNO055 Breakout New Footprint=BNO055 Breakout
+Change Physical Footprint: Designator=J9 Old Footprint=Molex Microfit 3.0 2x3 Right Angle New Footprint=Molex Microfit 3.0 2x3 Right Angle
+Change Physical Footprint: Designator=J10 Old Footprint=1x6 Breakaway Vertical New Footprint=1x6 Breakaway Vertical
+Change Physical Footprint: Designator=J11 Old Footprint=1x2 Breakaway Vertical New Footprint=1x2 Breakaway Vertical
+Change Physical Footprint: Designator=J12 Old Footprint=1x2 Breakaway Vertical New Footprint=1x2 Breakaway Vertical
+Change Physical Footprint: Designator=J13 Old Footprint=1x4 Breakaway Vertical New Footprint=1x4 Breakaway Vertical
+Change Physical Footprint: Designator=Q1 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Physical Footprint: Designator=Q2 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Physical Footprint: Designator=Q3 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Physical Footprint: Designator=Q4 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Physical Footprint: Designator=R1 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R4 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R5 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R7 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R8 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R9 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R10 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Physical Footprint: Designator=R11 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Physical Footprint: Designator=R12 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R13 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R14 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R15 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R16 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R17 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R18 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R19 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R20 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R21 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R22 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R23 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R24 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R25 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R26 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R27 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R28 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R29 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R30 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R31 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R32 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=SW1 Old Footprint=FP-PTS645SM43SMTR92LFS-MFG New Footprint=FP-PTS645SM43SMTR92LFS-MFG
+Change Physical Footprint: Designator=U1 Old Footprint=FP-PWP0024B-MFG New Footprint=FP-PWP0024B-MFG
+Change Physical Footprint: Designator=U2 Old Footprint=FP-PWP0024B-MFG New Footprint=FP-PWP0024B-MFG
+Change Physical Footprint: Designator=U3 Old Footprint=32A_L New Footprint=32A_L
+Change Physical Footprint: Designator=Y1 Old Footprint=FP-XRCHA-MFG New Footprint=FP-XRCHA-MFG
